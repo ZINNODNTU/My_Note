@@ -2,7 +2,7 @@
   "notes": [
     {
       "id": 1,
-      "title": "Học Flutter cơ bản",
+      "title": "Học Flutter cơ bản của căn bản",
       "content": "Học các widget cơ bản như Text, Column, Row, ListView...",
       "priority": 3,
       "createdAt": "2025-04-01T10:30:00Z",
