@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Học Flutter cơ bản",
+      "content": "Học các widget cơ bản như Text, Column, Row, ListView...",
+      "priority": 3,
+      "createdAt": "2025-04-01T10:30:00Z",
+      "modifiedAt": "2025-04-03T12:00:00Z",
+      "tags": ["flutter", "học tập", "mobile"],
+      "color": "#FFB74D"
+    },
+    {
+      "id": 2,
+      "title": "Đi chợ",
+      "content": "Mua rau, thịt, trái cây và nước mắm.",
+      "priority": 1,
+      "createdAt": "2025-04-05T08:00:00Z",
+      "modifiedAt": "2025-04-05T08:15:00Z",
+      "tags": ["cá nhân", "việc nhà"],
+      "color": "green"
+    },
+    {
+      "id": 3,
+      "title": "Kế hoạch dự án MyNote",
+      "content": "Tạo giao diện, cấu trúc DB, quản lý trạng thái với Provider.",
+      "priority": 2,
+      "createdAt": "2025-03-30T09:00:00Z",
+      "modifiedAt": "2025-04-06T15:45:00Z",
+      "tags": ["dự án", "flutter", "ghi chú"],
+      "color": "#90CAF9"
+    }
+  ]
+}
